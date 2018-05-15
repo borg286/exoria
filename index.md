@@ -1,4 +1,12 @@
-# Exoria Tips and Tricks
+---
+title: Exoria Tips and Tricks
+layout: post
+author: borg286
+permalink: /exoria-tips-and-tricks/
+source-id: 1JaXkRqlsqqxDFPcFrZ6pkUzytVztO0qlSegwpTknRN0
+published: true
+---
+Exoria Tips and Tricks
 
 Exoria is currently 1.0.0 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files)
 
@@ -9,6 +17,8 @@ Here is the web view [https://borg286.github.io/exoria/](https://borg286.github.
 Please use this if you don't intend to propose tips.
 
 Feel free to add comments, and propose changes [here](https://docs.google.com/document/d/1JaXkRqlsqqxDFPcFrZ6pkUzytVztO0qlSegwpTknRN0/edit?usp=sharing).
+
+Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 ### Version History
 
