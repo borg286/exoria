@@ -6,7 +6,7 @@ permalink: /exoria-tips-and-tricks/
 source-id: 1JaXkRqlsqqxDFPcFrZ6pkUzytVztO0qlSegwpTknRN0
 published: true
 ---
-# Exoria Tips and Tricks
+Exoria Tips and Tricks
 
 Exoria is currently 1.0.0 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files)
 
