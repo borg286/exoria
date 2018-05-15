@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+---
+title: Exoria Tips and Tricks
+layout: post
+author: borg286
+permalink: /exoria-tips-and-tricks/
+source-id: 1JaXkRqlsqqxDFPcFrZ6pkUzytVztO0qlSegwpTknRN0
+published: true
+---
+Exoria Tips and Tricks
 
-You can use the [editor on GitHub](https://github.com/borg286/exoria/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Exoria is currently 1.0.0 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image alt text]({{ site.url }}/public/1oDoqFSny61tSQxEXLouug_img_0.png)
 
-### Markdown
+Here is the web view [https://borg286.github.io/exoria/](https://borg286.github.io/exoria/) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please use this if you don't intend to propose tips.
 
-```markdown
-Syntax highlighted code block
+Feel free to add comments, and propose changes [here](https://docs.google.com/document/d/1JaXkRqlsqqxDFPcFrZ6pkUzytVztO0qlSegwpTknRN0/edit?usp=sharing).
 
-# Header 1
-## Header 2
-### Header 3
+### Version History
 
-- Bulleted
-- List
+1. No changes yet
 
-1. Numbered
-2. List
+### Seeds
 
-**Bold** and _Italic_ and `Code` text
+# Survival
 
-[Link](url) and ![Image](src)
-```
+## Uncategorized Tips
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Magical Life
 
-### Jekyll Themes
+## Uncategorized Tips
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/borg286/exoria/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Resource Automation
 
-### Support or Contact
+## Uncategorized Tips
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Power up
+
+## Uncategorized Tips
+
+# Tech Progression
+
+## Uncategorized Tips
+
+# Researching the stars
+
+## Uncategorized Tips
+
+# Take the long way home
+
+## Uncategorized Tips
+
+# Creative Tips
+
