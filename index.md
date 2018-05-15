@@ -1,3 +1,11 @@
+---
+title: Exoria Tips and Tricks
+layout: post
+author: borg286
+permalink: /exoria-tips-and-tricks/
+source-id: 1JaXkRqlsqqxDFPcFrZ6pkUzytVztO0qlSegwpTknRN0
+published: true
+---
 # Exoria Tips and Tricks
 
 Exoria is currently 1.0.0 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files)
@@ -14,7 +22,7 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 ### Version History
 
-1. No snapshot taken yet.
+1. [5-15](https://drive.google.com/open?id=11DLuHxRwI0o0T-skS6_d08t263Lz27ER)
 
 ## Lets Players playlists
 
