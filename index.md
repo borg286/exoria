@@ -1,4 +1,12 @@
-# Exoria Tips and Tricks 
+---
+title: Exoria Tips and Tricks
+layout: post
+author: borg286
+permalink: /exoria-tips-and-tricks/
+source-id: 1JaXkRqlsqqxDFPcFrZ6pkUzytVztO0qlSegwpTknRN0
+published: true
+---
+# Exoria Tips and Tricks
 
 Exoria is currently 1.0.0 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files)
 
@@ -17,6 +25,12 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 1. No changes yet
 
 ### Seeds
+
+## Lets Players playlists
+
+* [Chosen Architect](https://www.youtube.com/playlist?list=PL_ipI8CnaNIbm-LIfAHF-0OcCeUy7SyXh)
+
+* [System Collapse](https://www.youtube.com/playlist?list=PLJkfWFKMxbFjEUD6Ic_lYpkcpLzY3Hl4z)
 
 # Survival
 
