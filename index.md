@@ -14,7 +14,7 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 ### Version History
 
-1. [5-15](https://drive.google.com/open?id=11DLuHxRwI0o0T-skS6_d08t263Lz27ER)
+1. [5-15](https://drive.google.com/open?id=14zn_xVSWTcBg2P5zRUSPLUjQ2JJfKmIJ)
 
 ## Lets Players playlists
 
