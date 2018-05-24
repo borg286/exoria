@@ -1,6 +1,14 @@
+---
+title: Exoria Tips and Tricks
+layout: post
+author: borg286
+permalink: /exoria-tips-and-tricks/
+source-id: 1JaXkRqlsqqxDFPcFrZ6pkUzytVztO0qlSegwpTknRN0
+published: true
+---
 # Exoria Tips and Tricks
 
-Exoria is currently 1.0.0 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files)
+Exoria is currently 1.0.2 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files)
 
 ![image alt text]({{ site.url }}/public/1oDoqFSny61tSQxEXLouug_img_0.jpg)
 
@@ -16,6 +24,8 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 1. [5-15](https://drive.google.com/open?id=14zn_xVSWTcBg2P5zRUSPLUjQ2JJfKmIJ)
 
+2. [5-24](https://drive.google.com/open?id=1d2MR-gY8nN6KJGElHNN9LVWaF2CXh9sD)
+
 ## Lets Players playlists
 
 * [Chosen Architect](https://www.youtube.com/playlist?list=PL_ipI8CnaNIbm-LIfAHF-0OcCeUy7SyXh) (Early episode's bugs should be fixed by now)
@@ -30,7 +40,7 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 ## Uncategorized Tips
 
-* Stepup is on by default. This can be changed in the controls under the category "StepUp" which will toggle between the vanilla auto-jump, stepup, and off.
+* Stepup is on by default. This can be changed in the controls under the category "StepUp" which will toggle between the Vanilla auto-jump, stepup, and off.
 
 ## Survival Tips
 
@@ -38,21 +48,51 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
     * Be careful of fall damage if you only have ½ heart though
 
+    * You will get poison if you go outside when its raining
+
 * Your player will sink slightly into the ash. This means sneaking over pools of lava will cause you to catch fire. Similarly, in acid pools you will take damage.
 
 * Rocks can be thrown with right click and used as a primitive long range weapon against fairies
 
-    * Roots 2 fairies = Roots 2 fairy dust
+    * Roots 2 Fairies = Roots 2 *fairy dust*
 
-    * Biomes O' Plenty pixies = Botania pixie dust
+    * Biomes O' Plenty Pixies = Botania *pixie dust*
 
-    * Astral Sorcery sparks = Botania sparks
+    * Astral Sorcery Sparks = Botania *spark*
+
+* Nutrition food tips
+
+    * Carbs
+
+        * *Baguettes* can be crafted with 3 wheat
+
+        * *Ground wheat* can be made from 1 wheat, a rock, and a stone basin (not consumed), then smelted into bread
+
+    * Fat
+
+        * *Cookies* are cheap and provide fat and carbs
+
+        * *Zombie flesh* can be dried into *dry jerky* or cooked into *flesh*
+
+        * *Onion rings* are made by cooking an *onion* in a furnace
+
+    * Protein
+
+        * Piles of *fish* from strainers
+
+    * Vitamin
+
+        * *Rush seeds* can be eaten even at full hunger
 
 ## Quality of Life Tips
 
 * Incase you don't have another hatchet/axe, you can get Planks/Sticks from the Chopping Block at a lower chance if you use your hands
 
 * Don't throw Ash away, you will need lots of it later. Compact 4 ash into a block for storage
+
+* Ash blocks can be used as a fuel for smelting, saving on wood and by extension, charcoal
+
+    * Ash blocks can also be used as a fuel for smelting, saving on wood and by extension, charcoal
 
 * Press "K" while hovering over items to compress them (like Ash to Ash Blocks)
 
@@ -74,7 +114,9 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 * Immersive Craft shelves are probably the cheapest storage option only requiring 7 wooden slabs. They hold as much as an IC chest or cupboard, but don't need trapdoors. The shelves also do not have a lid.
 
-* Water from Magneticraft sluice boxes can be chained together, saving on precious water. 
+* Water from Magneticraft sluice boxes can be chained together, saving on precious water.
+
+* Vanilla Concrete is fast to walk on. 
 
 ## Exploration Tips
 
@@ -86,11 +128,13 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 ![image alt text]({{ site.url }}/public/1oDoqFSny61tSQxEXLouug_img_1.png)
 
-* There are 2 different structures you can come across in the world. A small Botania area which you will need eventually. But, the major benefits come in the form of loot, specifically the Astral Sorcery conversion and formation wand, and the horn of the canopy. With the conversion wand, you can select something such as saplings (throw ash into elven portal for more saplings) which allows you to instantly mine a large area of blocks. In conjunction with the horn of the canopy this makes tree farming very quick and easy.
+* There are 2 different structures you can come across in the world. A small Botania area which you will need eventually. But, the major benefits come in the form of loot, specifically the Astral Sorcery conversion and formation wand, and the horn of the canopy. With the conversion wand, you can select something such as dead saplings (throw ash into elven portal for more saplings) (edit: broken in current version of AS as it does not differentiate between meta data values of blocks.) which allows you to instantly mine a large area of blocks. In conjunction with the horn of the canopy, this makes tree farming very quick and easy.
 
 ![image alt text]({{ site.url }}/public/1oDoqFSny61tSQxEXLouug_img_2.png)
 
 * The other structure is a small Roots 2 setup. No major loot like the botania area. Both structures should also have a waystone (which you can mine), allowing easy teleport access.
+
+* There are also other Botania Portals out there for more Guilty Mana Pools.
 
 ## Progression Tips
 
@@ -106,6 +150,10 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 * The Foundry quest needs 17 copper ingots (153 copper rocks, ~2½ stacks), which can feel like a lot in the early game. It's best to start automating the strainers as soon as you can
 
+    * Make 2 extra ingots for the saw you'll need to make stone slabs
+
+* Quests with a fancy border indicate the quests needed for progression while those with a plain square outline are generally not required  [pic]
+
 ## Automation Tips
 
 ![image alt text]({{ site.url }}/public/1oDoqFSny61tSQxEXLouug_img_3.png)
@@ -119,6 +167,8 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 * Gravity feed pipes act as a super fast extraction pipe that only works when placed on the underside of a block. Perfect for pulling products out of a strainer without needing a clunky redstone engine + lever powering a wooden extraction pipe.
 
 [Talk about the automation possible with hoppers for refilling the filters, as well as filling a chest's slots with 1-5 items (1 item per slot so the hopper has to send it to the next hopper) so as to make a poor-man’s sorting system]
+
+* When setting up the auto sifter (Ex Nihilo Creatia), build the axles and water wheels off of the sifter, because placement matters and it won't work if the wheels/axles are turned the wrong way.
 
 ## Metals
 
@@ -138,11 +188,13 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
     * The CraftBench has a 27 slot inventory, and can autocraft faster than the BC Factory Auto Workbench (depends on the extraction pipe speed)
 
-    * The CraftFurnace has a 6 stack input and output buffer, 3 slots for fuel, and smelts 2 items at a time
+    * The CraftFurnace has a 6 stack input and output buffer, 3 slots for fuel, and smelts 2 items at a time. It is also more fuel efficient and saves progress if you run out of fuel during smelting.
 
 # Magical Life
 
 ## Uncategorized Tips
+
+* Rock bees will need the Normal humidity and temperature of the Underground dimension, while the Hot and Wet bees do not carry the Cave Dweller gene. You will most likely need to crossbreed many Hot and Wet bees to get a pure Rock princess and drone. When a species mutation occurs, the bee's traits will be set to the species’ defaults. Since Hot+Wet has a 50% chance to mutate to Rock, there is a 25% chance that a Rock bee will be usable.
 
 # Resource Automation
 
@@ -154,9 +206,13 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 * When travelling to Exoria Underground, make sure to bring torches. The portal spawns in complete darkness so try to light the area up before the grue kills you.
 
+* Adding Silk Touch (2 slime blocks, 2 wool, 4 emerald, and a brick) to a Flexible tool allows you to get 4 cinis clay per block, so you only need to find 9 blocks for a coke oven.
+
 # Power up
 
 ## Uncategorized Tips
+
+* Magneticraft power will convert to RF
 
 # Tech Progression
 
@@ -182,5 +238,5 @@ General Astral Sorcery tips and tricks ([Mischief of Mice Bit by Bit](https://ww
 
 You can use the creative command to complete quests in case a bug is blocking you. Hover your mouse over the quest and hold shift to see the quest_id, then run the following command
 
-/bq_admin complete <quest_id>
+/bq_admin complete (quest_id)
 
