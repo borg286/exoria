@@ -1,4 +1,4 @@
-# Exoria Tips and Tricks
+# Exoria Tips and Tricks 
 
 Exoria is currently 1.2.1 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files/2573536)
 
