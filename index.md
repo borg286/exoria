@@ -1,6 +1,14 @@
-# Exoria Tips and Tricks 
+---
+title: Exoria Tips and Tricks
+layout: post
+author: borg286
+permalink: /exoria-tips-and-tricks/
+source-id: 1JaXkRqlsqqxDFPcFrZ6pkUzytVztO0qlSegwpTknRN0
+published: true
+---
+# Exoria Tips and Tricks
 
-Exoria is currently 1.0.2 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files)
+Exoria is currently 1.2.1 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files/2573536)
 
 ![image alt text]({{ site.url }}/public/1oDoqFSny61tSQxEXLouug_img_0.jpg)
 
