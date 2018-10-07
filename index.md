@@ -1,7 +1,7 @@
 # Exoria Tips and Tricks
 
 Exoria is currently 1.3.0c : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files/2587662)
-
+ 
 ![image alt text]({{ site.url }}/public/1oDoqFSny61tSQxEXLouug_img_0.jpg)
 
 Here is the web view [https://borg286.github.io/exoria/](https://borg286.github.io/exoria/) 
