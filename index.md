@@ -1,6 +1,14 @@
+---
+title: Exoria Tips and Tricks
+layout: post
+author: borg286
+permalink: /exoria-tips-and-tricks/
+source-id: 1JaXkRqlsqqxDFPcFrZ6pkUzytVztO0qlSegwpTknRN0
+published: true
+---
 # Exoria Tips and Tricks
 
-Exoria is currently 1.2.1 : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files/2573536)
+Exoria is currently 1.3.0c : [Get it here !](https://minecraft.curseforge.com/projects/exoria/files/2587662)
 
 ![image alt text]({{ site.url }}/public/1oDoqFSny61tSQxEXLouug_img_0.jpg)
 
@@ -14,13 +22,15 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 ### Version History
 
-1. [7-17](https://drive.google.com/open?id=1GJia1AgaqXeof-oaM2sHL5nMYxbj8uIW)
+1. [10-7](https://drive.google.com/open?id=1qa7RetlSwYDgHtJsgDWk0oUBrdCQSMJC)
 
-2. [6-17](https://drive.google.com/open?id=1dhsF56WEVAxJKIyF8P0WjKUPqhp4C6kJ)
+2. [7-17](https://drive.google.com/open?id=1GJia1AgaqXeof-oaM2sHL5nMYxbj8uIW)
 
-3. [5-15](https://drive.google.com/open?id=14zn_xVSWTcBg2P5zRUSPLUjQ2JJfKmIJ)
+3. [6-17](https://drive.google.com/open?id=1dhsF56WEVAxJKIyF8P0WjKUPqhp4C6kJ)
 
-4. [5-24](https://drive.google.com/open?id=1d2MR-gY8nN6KJGElHNN9LVWaF2CXh9sD)
+4. [5-15](https://drive.google.com/open?id=14zn_xVSWTcBg2P5zRUSPLUjQ2JJfKmIJ)
+
+5. [5-24](https://drive.google.com/open?id=1d2MR-gY8nN6KJGElHNN9LVWaF2CXh9sD)
 
 ## Lets Players playlists
 
@@ -130,7 +140,7 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 * Vanilla Concrete is fast to walk on. 
 
-* Once you are able to make a stone gallagher, you can (very cheaply) use flaked obsidian to make an obsidian hatchet to chop 8 Wood Planks per log. Later on, the flexible axe gives you 10 Wood Planks per log. 
+* Once you are able to make a stone gallagher, you can (very cheaply) use flaked obsidian to make an obsidian hatchet (require iron pin, and lacquer stick) to chop 8 Wood Planks per log. Later on, the flexible axe gives you 10 Wood Planks per log. 
 
 * Don't worry about the vanilla crafting tables and early chests, access to metals and crafting unlocks the tinker table and chests (and tin, gold, diamond chests).
 
@@ -138,15 +148,19 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 * Build your base with the intention to expand.
 
-* Hammer a bone to get four bonemeal. Three bonemeal + one rotten flesh = instant growth bonemeal.!
+* Hammer a bone to get four bonemeal. Three bonemeal + one rotten flesh = instant growth bone meal.!
 
 * Coconut trees have four spots where coconuts grow (diagonal spaces from top center leaf block. If you bonemeal those spotst, 1-2 coconuts will grow over the next 15 seconds. Chop down the entire tree.
+
+* Banana tree will grow a flower that will grow towards the ground, breaking the flower and green bananas will return yellow bananas, letting the bananas dry will drop sticks to ground.
 
 * Turn the extra fish from your strainers into fish bait and put a stack into Primalcore Fish Traps. Right-click on them to get slime balls, flint->diamond flakes, lily pads, more fish, diamonds, etc.
 
 * You can take the urushi out of the cauldron and make your lacquered planks in a crafting table. Much faster.
 
 * rice slimeballs (requiring 6 rice and a water bucket) can be used to craft tinkers construct slime boots and slime sling. These (especially the boots) are near essential for effective travel
+
+* 3 Rice makes paper
 
 ## Exploration Tips
 
@@ -162,7 +176,7 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 ![image alt text]({{ site.url }}/public/1oDoqFSny61tSQxEXLouug_img_2.png)
 
-* The other structure is a small Roots 2 setup. No major loot like the botania area, but you will need the rune stone.. Both structures should also have a waystone (which you can mine), allowing easy teleport access.
+* The other structure is a small Roots 2 setup. No major loot like the botania area, but you will need the rune f
 
 * There are also other Botania Portals out there for more Guilty Mana Pools.
 
@@ -191,6 +205,10 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 * Quests with a fancy border indicate the quests needed for progression while those with a plain square outline are generally not required  [pic]
 
 * Flexible Tools require a lot of gold, diamond, or obsidian to repair. Use OpenBlock Tanks to collect lava, use an Immersive Engineering drain (with only one input and output) to dump it into the space below water block to make obsidian and break that with the Embers breaker. Have a hopper below the obsidian to collect drops.
+
+* Create the Dawnstone Anvil and some Isolated Materia. One IM seems to fully repair the tool which otherwise needs more than a stack of obsidian. 
+
+* If in need of obsidian, the Roots 2 Shatter spell loaded into a staff makes for very quick harvesting.
 
 ## Automation Tips
 
@@ -262,9 +280,9 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 
 ## Uncategorized Tips
 
-* Magneticraft power will convert to RF
+* Magneticraft power will convert to RF (note: you need to first transfer the energy over magneticraft wire; a thermopile will not output directly to an RF cable or block, but its wire will connect to a capacitor.  My testing suggests a snow & lava thermopile outputs 20 rf/t over the shortest wire possible.)
 
-* The Thermal Expansion's Spruce tree > fractionating still > compression dynamo producing steam > steam dynamo setup is a relatively cheap way to passively produce 1200 RF/t (note: you will either need more than one steam dynamo, or one that’s highly upgraded)
+* The Thermal Expansion's Spruce tree > fractionating still > compression dynamo producing steam > steam dynamo setup is a relatively cheap way to passively produce 1200 RF/t (note: you will need more than one steam dynamo) (additional note: fuel efficiency augments do nothing in the steam turbine dynamo, but will still increase efficiency in the compression dynamo)
 
 * Skip the Ember Activator and go straight to the Pressure Refinery. Give it a few buckets of water and your ember will last longer.
 
@@ -273,6 +291,8 @@ Report issues [here](https://github.com/davqvist/Exoria/issues )
 ## Uncategorized Tips
 
 * Poison extract is harvested from mature sponge plants in the mist. The correct sponge will have a recess on the top that you can harvest the poison from. This can also be accelerated using a watering can (possibly other methods?) *note: the sponge life cycle starts with a stalk which grows big, pops open at the top to reveal the recess, then develops a green nodule that blocks the recess. Once the nodule is formed, the sponge slowly consumes itself while spreading spores.  If you keep collecting the poison extract the nodule will not form, preserving your sponge.
+
+* The easiest way to harvest Hard Foggy Stone is with the Automatic Breaker and an Engineer's Hammer.  Place the breaker on the stone and rotate with the hammer.
 
 * Futurepack component RNG
 
